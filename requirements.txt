@@ -4,10 +4,7 @@ aiofiles==22.1.0
 aiosqlite==0.20.0
 akracer==0.0.13
 akshare==1.13.25
-<<<<<<< HEAD
 alabaster==0.7.12
-=======
->>>>>>> 561dc95031d22b30874050a6986a6d35dd8c3c82
 altair==4.2.2
 anaconda-client==1.11.0
 anaconda-navigator==2.3.1
