@@ -4,7 +4,6 @@ aiofiles==22.1.0
 aiosqlite==0.20.0
 akracer==0.0.13
 akshare==1.13.25
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 altair==4.2.2
 anaconda-client==1.11.0
 anaconda-navigator==2.3.1
